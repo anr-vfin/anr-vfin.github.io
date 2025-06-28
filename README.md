@@ -21,6 +21,7 @@ To study vortices with interfaces, we focus on **three prototype settings** repr
 <p align="center">
 <img src="Three_cases.png" width="70%" height="70%" align="center">
 </p>
+
 1. A vortex under a free surface
 2. A vortex with a gaseous core
 3. A vortex with a gaseous core interacting with a free surface
