@@ -21,5 +21,5 @@ To study vortices with interfaces, we focus on three fondamental settings repres
 3. A vortex with a gaseous core interacting with a free surface
 
 <p align="center">
-<img src="cases.png" width="50%" height="50%" align="center">
+<img src="Three_cases.png" width="70%" height="70%" align="center">
 </p>
