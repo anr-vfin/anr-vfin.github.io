@@ -1,6 +1,6 @@
 # ANR project VFIN: Vortices and Fluid INterface
 <p align="center">
-<img src="logo.png" width="50%" height="50%" align="center">
+<img src="fig/logo.png" width="50%" height="50%" align="center">
 </p>
 
 ## Welcome on the website of the ANR Project VFIN: Vortices and Fluid INterface
@@ -19,7 +19,7 @@ the vicinity of the vortex or within its core, crucially modifies the dynamics.
 
 To study vortices with interfaces, the project focusses on **three prototype settings** represented below:
 <p align="center">
-<img src="Three_cases.png" width="70%" height="70%" align="center">
+<img src="fig/three_cases.png" width="70%" height="70%" align="center">
 </p>
 
 1. A vortex under a free surface
