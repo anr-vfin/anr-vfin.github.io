@@ -4,5 +4,5 @@
 
 The partners of this project are the following labs:
 - [Institut Jean le Rond d'Alembert](http://www.dalembert.upmc.fr/ijlrda/), Sorbonne Université, Paris.
-- [LMFA](https://lmfa.ec-lyon.fr), Ecole Centrale de Lyon, CNRS, Université Claude Bernard, INSA Lyon.
+- [LMFA](http://lmfa.ec-lyon.fr), Ecole Centrale de Lyon, CNRS, Université Claude Bernard, INSA Lyon.
 - [IRPHE](https://irphe.univ-amu.fr), Aix-Marseille Université, CNRS, Ecole Centrale Marseille.
