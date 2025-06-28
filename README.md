@@ -10,6 +10,8 @@ The partners of this project are the following labs:
 - [LMFA](http://lmfa.ec-lyon.fr), Ecole Centrale de Lyon, CNRS, Université Claude Bernard, INSA Lyon.
 - [IRPHE](https://irphe.univ-amu.fr), Aix-Marseille Université, CNRS, Ecole Centrale Marseille.
 
+The project will last 4 years starting from January 1st, 2025.
+
 ## What is the ANR-VFIN project?
 
 Many situations involve **flow vortices** in which **several immiscible fluids** are present: floating bodies, bodies immersed at small depth, foils, propellers... The presence of a **gas/liquid interface** located either in
