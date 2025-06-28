@@ -17,7 +17,7 @@ The project will last 4 years starting from January 1st, 2025.
 Many situations involve **flow vortices** in which **several immiscible fluids** are present: floating bodies, bodies immersed at small depth, foils, propellers... The presence of a **gas/liquid interface** located either in
 the vicinity of the vortex or within its core, crucially modifies the dynamics. 
 
-To study vortices with interfaces, we focus on **three prototype settings** represented below:
+To study vortices with interfaces, the project focusses on **three prototype settings** represented below:
 <p align="center">
 <img src="Three_cases.png" width="70%" height="70%" align="center">
 </p>
@@ -26,4 +26,5 @@ To study vortices with interfaces, we focus on **three prototype settings** repr
 2. A vortex with a gaseous core
 3. A vortex with a gaseous core interacting with a free surface
 
-We will use **theory, numerical simulation and experimentation** to study these three situations.
+We mainly study **flow structure**, **waves** and **wave resonances**, **dynamics of bubbles** in such vortices.
+To do so, we use **theory, numerical simulation and experimentation**.
