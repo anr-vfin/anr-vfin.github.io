@@ -2,7 +2,7 @@
 <p align="left">
 <img src="/fig/anr.jpg" width="20%" height="20%">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/fig/logo.png" width="50%" height="50%">
+<img src="/fig/logo.png" width="46%" height="46%">
 </p>
 
 <!-- menu -->
@@ -20,7 +20,7 @@
 </div>
 -->
 
-## Welcome on the website of the ANR Project VFIN: Vortices and Fluid INterface
+## Welcome on the website of the ANR funded project VFIN: Vortices and Fluid INterface
 
 The partners of this project are the following labs:
 - [Institut Jean le Rond d'Alembert](http://www.dalembert.upmc.fr/ijlrda/), Sorbonne Université, Paris.
@@ -29,7 +29,7 @@ The partners of this project are the following labs:
 
 [*More on the partners...*](http://anr-vfin.github.io/partners)
 
-## What is the ANR-VFIN project?
+## What is the VFIN project?
 
 Many situations involve **flow vortices** in which **several immiscible fluids** are present: floating bodies, bodies immersed at small depth, foils, propellers... The presence of a **gas/liquid interface** located either in
 the vicinity of the vortex or within its core, crucially modifies the dynamics. 
