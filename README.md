@@ -1,17 +1,17 @@
 # ANR project VFIN: Vortices and Fluid INterface
 <p align="center">
-<img src="fig/anr.jpg" width="20%" height="20%">  
-<img src="fig/logo.png" width="50%" height="50%">
+<img src="/fig/anr.jpg" width="20%" height="20%">  
+<img src="/fig/logo.png" width="50%" height="50%">
 </p>
 
 <!-- menu -->
 <div align="center">
   
-[![HOME](fig/menu_home.png)](https://anr-vfin.github.io/)
-[![PROJECT](fig/menu_project.png)](https://anr-vfin.github.io/project/)
-[![PARTNERS](fig/menu_partners.png)](https://anr-vfin.github.io/partners/)
-[![PUBLICATIONS](fig/menu_publications.png)](https://anr-vfin.github.io/publications/)
-[![EVENTS](fig/menu_events.png)](https://anr-vfin.github.io/events/)
+[![HOME](/fig/menu_home.png)](https://anr-vfin.github.io/)
+[![PROJECT](/fig/menu_project.png)](https://anr-vfin.github.io/project/)
+[![PARTNERS](/fig/menu_partners.png)](https://anr-vfin.github.io/partners/)
+[![PUBLICATIONS](/fig/menu_publications.png)](https://anr-vfin.github.io/publications/)
+[![EVENTS](/fig/menu_events.png)](https://anr-vfin.github.io/events/)
 
 </div>
 
@@ -31,7 +31,7 @@ the vicinity of the vortex or within its core, crucially modifies the dynamics.
 
 To study vortices with interfaces, the project focusses on **three prototype settings** represented below:
 <p align="center">
-<img src="fig/three_cases.png" width="70%" height="70%" align="center">
+<img src="/fig/three_cases.png" width="70%" height="70%" align="center">
 </p>
 
 1. A vortex under a free surface
