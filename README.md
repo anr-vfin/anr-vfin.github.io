@@ -5,11 +5,13 @@
 
 <!-- menu -->
 <div align="center">
+  
 [![HOME](fig/menu_home.png)](https://anr-vfin.github.io/)
 [![PROJECT](fig/menu_project.png)](https://anr-vfin.github.io/project/)
 [![TEAM](fig/menu_team.png)](https://anr-vfin.github.io/team/)
 [![PUBLICATIONS](fig/menu_publications.png)](https://anr-vfin.github.io/publications/)
 [![EVENTS](fig/menu_events.png)](https://anr-vfin.github.io/events/)
+
 </div>
 
 ## Welcome on the website of the ANR Project VFIN: Vortices and Fluid INterface
