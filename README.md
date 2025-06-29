@@ -9,6 +9,8 @@
 <!--
 <div align="center">
 -->
+<p align="center">
+
 
 [![HOME](/fig/menu_home.png)](https://anr-vfin.github.io/)
 [![PROJECT](/fig/menu_project.png)](https://anr-vfin.github.io/project/)
@@ -16,6 +18,7 @@
 [![PUBLICATIONS](/fig/menu_publications.png)](https://anr-vfin.github.io/publications/)
 [![EVENTS](/fig/menu_events.png)](https://anr-vfin.github.io/events/)
 
+</p>
 <!--
 </div>
 -->
