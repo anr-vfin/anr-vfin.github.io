@@ -1,6 +1,6 @@
 # ANR project VFIN: Vortices and Fluid INterface
 <p align="center">
-<img src="fig/anr.jpg" width="100%" height="100%">  
+<img src="fig/anr.jpg" width="20%" height="20%">  
 <img src="fig/logo.png" width="50%" height="50%">
 </p>
 
@@ -22,8 +22,6 @@ The partners of this project are the following labs:
 - [LMFA](http://lmfa.ec-lyon.fr), Ecole Centrale de Lyon, CNRS, Université Claude Bernard, INSA Lyon.
 - [IRPHE](https://irphe.univ-amu.fr), Aix-Marseille Université, CNRS, Ecole Centrale Marseille.
 
-The project will last 4 years starting from January 1st, 2025.
-
 [*More on the partners...*](http://anr-vfin.github.io/partners)
 
 ## What is the ANR-VFIN project?
@@ -42,5 +40,7 @@ To study vortices with interfaces, the project focusses on **three prototype set
 
 We mainly study **flow structure**, **waves** and **wave resonances**, **dynamics of bubbles** in such vortices.
 To do so, we use **theory, numerical simulation and experimentation**.
+
+The project will last 4 years starting from January 1st, 2025.
 
 [*More on the project...*](http://anr-vfin.github.io/project)
