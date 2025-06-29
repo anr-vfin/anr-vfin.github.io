@@ -23,7 +23,7 @@ The partners of this project are the following labs:
 
 The project will last 4 years starting from January 1st, 2025.
 
-* [More on the partners...](http://anr-vfin.github.io/partners) *
+[*More on the partners...*](http://anr-vfin.github.io/partners)
 
 ## What is the ANR-VFIN project?
 
@@ -42,4 +42,4 @@ To study vortices with interfaces, the project focusses on **three prototype set
 We mainly study **flow structure**, **waves** and **wave resonances**, **dynamics of bubbles** in such vortices.
 To do so, we use **theory, numerical simulation and experimentation**.
 
-* [More on the project...](http://anr-vfin.github.io/project) *
+[*More on the project...*](http://anr-vfin.github.io/project)
