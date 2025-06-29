@@ -8,7 +8,7 @@
 <!-- menu -->
 <div align="center">
   
-[![HOME](/fig/menu_home.png)](https://anr-vfin.github.io/)
+[<img src="/fig/menu_home.png">](https://anr-vfin.github.io/)
 [![PROJECT](/fig/menu_project.png)](https://anr-vfin.github.io/project/)
 [![PARTNERS](/fig/menu_partners.png)](https://anr-vfin.github.io/partners/)
 [![PUBLICATIONS](/fig/menu_publications.png)](https://anr-vfin.github.io/publications/)
