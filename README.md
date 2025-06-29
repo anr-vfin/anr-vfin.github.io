@@ -6,16 +6,19 @@
 </p>
 
 <!-- menu -->
+<!--
 <div align="center">
-  
-[<img src="https://anr-vfin.github.io/fig/menu_home.png">](https://anr-vfin.github.io/)
+-->
 
+[![HOME](/fig/menu_home.png)](https://anr-vfin.github.io/)
 [![PROJECT](/fig/menu_project.png)](https://anr-vfin.github.io/project/)
 [![PARTNERS](/fig/menu_partners.png)](https://anr-vfin.github.io/partners/)
 [![PUBLICATIONS](/fig/menu_publications.png)](https://anr-vfin.github.io/publications/)
 [![EVENTS](/fig/menu_events.png)](https://anr-vfin.github.io/events/)
 
+<!--
 </div>
+-->
 
 ## Welcome on the website of the ANR Project VFIN: Vortices and Fluid INterface
 
