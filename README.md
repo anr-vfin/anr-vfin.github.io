@@ -23,6 +23,8 @@ The partners of this project are the following labs:
 
 The project will last 4 years starting from January 1st, 2025.
 
+* [More on the partners...](http://anr-vfin.github.io/partners) *
+
 ## What is the ANR-VFIN project?
 
 Many situations involve **flow vortices** in which **several immiscible fluids** are present: floating bodies, bodies immersed at small depth, foils, propellers... The presence of a **gas/liquid interface** located either in
@@ -39,3 +41,5 @@ To study vortices with interfaces, the project focusses on **three prototype set
 
 We mainly study **flow structure**, **waves** and **wave resonances**, **dynamics of bubbles** in such vortices.
 To do so, we use **theory, numerical simulation and experimentation**.
+
+* [More on the project...](http://anr-vfin.github.io/project) *
