@@ -15,7 +15,7 @@
 [![EVENTS](/fig/menu_events.png)](https://anr-vfin.github.io/events/)
 -->
 
-[![](https://img.shields.io/badge/%32%32%32%32%32%32%32%32HOME%32%32%32%32%32%32%32%32-red?style=for-the-badge)](https://anr-vfin.github.io/)
+[![](https://img.shields.io/badge/HOME-red?style=for-the-badge)](https://anr-vfin.github.io/)
 [![](https://img.shields.io/badge/PROJECT-blue?style=for-the-badge)](https://anr-vfin.github.io/project/)
 [![](https://img.shields.io/badge/PARTNERS-blue?style=for-the-badge)](https://anr-vfin.github.io/partners/)
 [![](https://img.shields.io/badge/PUBLICATIONS-blue?style=for-the-badge)](https://anr-vfin.github.io/publications/)
