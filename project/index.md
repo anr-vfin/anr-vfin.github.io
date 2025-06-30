@@ -42,3 +42,4 @@ To do so, we use **theory, numerical simulation and experimentation**.
 ### Duration
 
 The project will last 4 years starting from January 1st, 2025.
+
