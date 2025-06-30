@@ -16,6 +16,12 @@
 [![PUBLICATIONS](/fig/menu_publications.png)](https://anr-vfin.github.io/publications/)
 [![EVENTS](/fig/menu_events.png)](https://anr-vfin.github.io/events/)
 
+[![](https://img.shields.io/badge/HOME-blue?style=for-the-badge)](https://anr-vfin.github.io/)
+[![](https://img.shields.io/badge/PROJECT-blueviolet?style=for-the-badge)](https://anr-vfin.github.io/project/)
+[![](https://img.shields.io/badge/PARTNERS-yellow?style=for-the-badge)](https://anr-vfin.github.io/partners/)
+[![](https://img.shields.io/badge/PUBLICATIONS-lightgrey?style=for-the-badge)](https://anr-vfin.github.io/publications/)
+[![](https://img.shields.io/badge/EVENTS-orange?style=for-the-badge)](https://anr-vfin.github.io/events/)
+
 <!--
 </div>
 -->
