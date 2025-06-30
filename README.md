@@ -6,25 +6,20 @@
 </p>
 
 <!-- menu -->
-<!--
-<div align="center">
--->
 
+<!-- 
 [![HOME](/fig/menu_home.png)](https://anr-vfin.github.io/)
 [![PROJECT](/fig/menu_project.png)](https://anr-vfin.github.io/project/)
 [![PARTNERS](/fig/menu_partners.png)](https://anr-vfin.github.io/partners/)
 [![PUBLICATIONS](/fig/menu_publications.png)](https://anr-vfin.github.io/publications/)
 [![EVENTS](/fig/menu_events.png)](https://anr-vfin.github.io/events/)
-
-[![](https://img.shields.io/badge/HOME-blue?style=for-the-badge)](https://anr-vfin.github.io/)
-[![](https://img.shields.io/badge/PROJECT-blueviolet?style=for-the-badge)](https://anr-vfin.github.io/project/)
-[![](https://img.shields.io/badge/PARTNERS-yellow?style=for-the-badge)](https://anr-vfin.github.io/partners/)
-[![](https://img.shields.io/badge/PUBLICATIONS-lightgrey?style=for-the-badge)](https://anr-vfin.github.io/publications/)
-[![](https://img.shields.io/badge/EVENTS-orange?style=for-the-badge)](https://anr-vfin.github.io/events/)
-
-<!--
-</div>
 -->
+
+[![](https://img.shields.io/badge/HOME-red?style=for-the-badge)](https://anr-vfin.github.io/)
+[![](https://img.shields.io/badge/PROJECT-blue?style=for-the-badge)](https://anr-vfin.github.io/project/)
+[![](https://img.shields.io/badge/PARTNERS-blue?style=for-the-badge)](https://anr-vfin.github.io/partners/)
+[![](https://img.shields.io/badge/PUBLICATIONS-blue?style=for-the-badge)](https://anr-vfin.github.io/publications/)
+[![](https://img.shields.io/badge/EVENTS-blue?style=for-the-badge)](https://anr-vfin.github.io/events/)
 
 ## Welcome on the website of the ANR funded project VFIN: Vortices and Fluid INterface
 
