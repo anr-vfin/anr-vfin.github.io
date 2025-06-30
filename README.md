@@ -1,4 +1,4 @@
-# ANR project VFIN: Vortices and Fluid INterface
+# Vortices and Fluid INterface
 <p align="left">
 <img src="/fig/anr.jpg" width="10%" height="10%">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
