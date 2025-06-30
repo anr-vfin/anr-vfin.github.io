@@ -27,4 +27,4 @@
 ### 2025
 
 
-## Publications prior to the ANR-VFIN project
+## Publications prior to 2025
