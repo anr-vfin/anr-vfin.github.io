@@ -24,4 +24,4 @@
 ## Events
 ### 2025
 - **Kick-off meeting** February 11-12 in Lyon and Ecully
-- **Online meeting** July 4 and 7
+- **Online meeting** July 7
