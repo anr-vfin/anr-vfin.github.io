@@ -61,7 +61,7 @@ technical side, the question on how an immersed foil at small depth interacts wi
 an open issue.
 #### An applied problem
 The expected scientific outputs are not only on the fundamental side, but also strongly target engineering
-and environmental issues such as the surface signature of immersed or floating bodies (hydrofoils,
-submarines operating at periscope depth), the identification of noise sources in vortices (behind propellers,
-foils) or the aerodynamics of lifting surfaces in the near vicinity of the surface (foils, turbines). We have
+and environmental issues such as the **surface signature of immersed or floating bodies** (hydrofoils,
+submarines operating at periscope depth), the **identification of noise sources in vortices** (behind propellers,
+foils) or the **aerodynamics of lifting surfaces in the near vicinity of the surface** (foils, turbines). We have
 already had exchanges with boat designers strongly interested in modelling the dynamics of such vortices.
