@@ -60,8 +60,11 @@ Mech. 831, 592-617. [doi](https://doi.org/10.1017/jfm.2017.624)
 flow. J. Fluid Mech. 925, A34. [doi](https://doi.org/10.1017/jfm.2021.683)
 * Rodgar, M., Scolan, H., Marié, J.-L., Doppler, D., Matas, J.-P. 2023 Bubble breakup and effects of soluble surfactants on bubble
 dynamics in a solid-body rotating flow. Phys. Rev. Fluids. 8, 073604. [doi](https://doi.org/10.1103/PhysRevFluids.8.073604)
-
-
+* Xu, Y., Delbende, I., Fuster, D., Rossi, M. 2020 Instability of a swirling bubble ring. C. R. Mécanique 348, 519.
+[doi](https://doi.org/10.5802/crmeca.22)
+* Yang, W., Delbende, I., Fraigneau, Y., Martin Witkowski, L. 2020 Large axisymmetric surface deformation and dewetting in the flow
+above a rotating disk in a cylindrical tank: Spin-up and permanent regimes. Phys. Rev. Fluids 5, 044801.
+[doi](https://doi.org/10.1103/PhysRevFluids.5.044801)
 
 
   
