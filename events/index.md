@@ -25,3 +25,5 @@
 ### 2025
 - **Kick-off meeting** February 11-12 in Lyon and Ecully
 - **Online meeting** July 7
+### 2026
+- **Spring meeting** March 16-17 in Marseilles
